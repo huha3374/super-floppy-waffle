@@ -1,0 +1,21 @@
+body{
+  background-color: $background-color;
+}
+
+h1 {
+  color: $header-color;
+  text-align: center;
+  font-family: 'Odibee Sans', cursive;
+
+}
+
+p {
+  text-align: center;
+  color: white;
+  font-size: 15pt;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: cyan;
+}

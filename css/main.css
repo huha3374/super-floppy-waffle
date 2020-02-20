@@ -1,0 +1,19 @@
+/*fonts*/
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Odibee+Sans&display=swap");
+/*colors*/
+body {
+  background-color: gray; }
+
+h1 {
+  color: cyan;
+  text-align: center;
+  font-family: 'Odibee Sans', cursive; }
+
+p {
+  text-align: center;
+  color: white;
+  font-size: 15pt;
+  font-family: 'Montserrat', sans-serif; }
+
+a {
+  color: cyan; }
