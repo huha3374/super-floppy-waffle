@@ -11,5 +11,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "auto-prefixer": "^0.4.2",
+    "gulp": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
 }
